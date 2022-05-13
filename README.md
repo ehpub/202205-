@@ -13,3 +13,6 @@ https://colab.research.google.com/gist/ehpub/f66a0b01f8d6ef0678eb5e2a2ffc1d95/-2
 
 5월 12일 머신러닝 - KNN 분류
 https://colab.research.google.com/gist/ehpub/f92aece0bf4f6f3518f8aab679a57619/-2205-01.ipynb?hl=ko
+
+5월 13일 머신러닝 - KNN 회귀 VS 선형 회귀, 특성 공학, 규제(라쏘와 릿지), 경사하강법
+https://colab.research.google.com/gist/ehpub/840fe72cd023aa005a36397b60977d0f/-2205-02.ipynb?hl=ko
