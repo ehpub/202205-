@@ -23,3 +23,5 @@ https://colab.research.google.com/gist/ehpub/dc9b31db4491106d92e5e18f9ced0fff/-2
 5월 17일 머신러닝 - 군집화, 주성분
 https://colab.research.google.com/gist/ehpub/816941a94787ab7f624e8051c8b32e11/-2205-04.ipynb?hl=ko
 
+5월 17일 딥러닝 - ANN, DNN, 최적화 함수, 활성화 함수, 손실 함수, Dropout
+https://colab.research.google.com/gist/ehpub/8e1a96eb5f425bda78b534a719476ca3/-2205-05.ipynb?hl=ko
