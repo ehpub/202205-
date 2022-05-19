@@ -31,3 +31,6 @@ https://colab.research.google.com/gist/ehpub/70d3b174224ccc90d040e5e0d232f02e/-2
 
 5월 19일 딥러닝 - RNN
 https://colab.research.google.com/gist/ehpub/b641f4bcc61cd45ae3b5bfc8d6b4cfad/-2205-07.ipynb?hl=ko
+
+5월 19일 딥러닝 - LSTM
+https://colab.research.google.com/gist/ehpub/a708a3bab1159830ce47d90981236b3a/-2205-08.ipynb?hl=ko
