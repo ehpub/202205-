@@ -28,3 +28,6 @@ https://colab.research.google.com/gist/ehpub/8e1a96eb5f425bda78b534a719476ca3/-2
 
 5월 18일 딥러닝 - CNN
 https://colab.research.google.com/gist/ehpub/70d3b174224ccc90d040e5e0d232f02e/-2205-06.ipynb?hl=ko
+
+5월 19일 딥러닝 - RNN
+https://colab.research.google.com/gist/ehpub/b641f4bcc61cd45ae3b5bfc8d6b4cfad/-2205-07.ipynb?hl=ko
